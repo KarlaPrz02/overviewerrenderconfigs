@@ -1,4 +1,4 @@
-worlds["ssp"] = "C:\\Users\\imcar\\Downloads\\world"
+worlds["ssp"] = "input path"
 
 renders["ssp-overworld"] = {
     "world": "ssp",
@@ -23,4 +23,4 @@ renders["ssp-end"] = {
     "northdirection" : "upper-left",
 }
 
-outputdir = "C:\\Users\\imcar\\Desktop\\test2"
+outputdir = "output path"
